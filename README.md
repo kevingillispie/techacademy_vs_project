@@ -1,2 +1,2 @@
-# techacademy_vs_project
-Visual Studio Project
+# The Tech Academy Project
+This repo is for practicing with Visual Studio 2017.
